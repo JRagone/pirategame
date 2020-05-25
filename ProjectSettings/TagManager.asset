@@ -41,15 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Player
-    uniqueID: 1331934057
-    locked: 0
-  - name: Cannon
-    uniqueID: 2270605263
+  - name: Water
+    uniqueID: 2823746409
     locked: 0
   - name: Projectile
     uniqueID: 3914776093
     locked: 0
-  - name: Water
-    uniqueID: 2823746409
+  - name: Cannon
+    uniqueID: 2270605263
+    locked: 0
+  - name: Player
+    uniqueID: 1331934057
     locked: 0
